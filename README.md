@@ -7,7 +7,7 @@
   <li>run the server through CMD
   <li>make request from browser on port 9000
 <ul/>
-
+<hr/>
 ## step-by-step explanation-->
 
 1.install NodeJS in your machine(in my case i installed it on windows) after installing
